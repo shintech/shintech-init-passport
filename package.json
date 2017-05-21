@@ -1,6 +1,6 @@
 {
   "name": "shintech-init-passport",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Initialize passport local strategy",
   "main": "index.js",
   "repository": "https://github.com/shintech/shintech-init-passport.git",
